@@ -122,5 +122,8 @@ del a
 
 [Статья на хабре](https://habr.com/ru/articles/209812/) про виды интерпретаторов. Довольно старая, но с хорошими пояснениями.
 
-Полезные кунштюки на стэковерфлоу: [](), [](), [](), []()
+Полезные кунштюки на стэковерфлоу и стэкэксчэндж: 
+- [Юпитер-ноутбук с PyPy](https://stackoverflow.com/questions/33850577/is-it-possible-to-run-a-pypy-kernel-in-the-jupyter-notebook), 
+- [Кратко о минусах PyPy](https://stackoverflow.com/questions/18946662/why-shouldnt-i-use-pypy-over-cpython-if-pypy-is-6-3-times-faster), 
+- [Обновление cmake](https://askubuntu.com/questions/829310/how-to-upgrade-cmake-in-ubuntu).
 
